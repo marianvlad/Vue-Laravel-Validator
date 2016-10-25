@@ -16,8 +16,8 @@
     "webpack": "^1.13.2"
   },
   "dependencies": {
-    "vue": "^1.0.26",
-    "vue-resource": "^0.9.3"
+    "vue": "^2.0.1",
+    "vue-resource": "^1.0.3"
   },
   "version": "1.0.0",
   "repository": {
