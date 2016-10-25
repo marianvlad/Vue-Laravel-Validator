@@ -10,7 +10,7 @@ export default class{
     }
 
     get(id){
-        if(this.has(id)) return this.$errors[id];
+        if(this.has(id)) return this.$errors[id][0];
     }
 
 
